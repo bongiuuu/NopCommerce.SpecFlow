@@ -1,0 +1,5 @@
+bin/
+obj/
+TestResult/
+/specflow/NopCommerce/NopCommerce/Features/*feature.cs
+*feature.cs

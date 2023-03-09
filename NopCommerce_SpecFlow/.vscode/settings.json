@@ -1,0 +1,5 @@
+{
+    "cucumberautocomplete.steps": [
+        "./NopCommerce/NopCommerce/Steps/*.cs"
+    ]
+}
